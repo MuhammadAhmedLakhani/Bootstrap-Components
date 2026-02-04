@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -16,25 +16,21 @@
     border: none;
     cursor: pointer;
     border-radius: 5px;
-}
+} */
 
-.dropdown-menu {
+/* .dropdown-menu {
     display: none;
     position: absolute;
     list-style: none;
-    /* Layout se bahar nikal kar button ke niche fit hoga */
     background-color: #ffffff;
     min-width: 160px;
     padding: 5px 10px;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-    /* Thoda depth ke liye */
     z-index: 1;
-    /* Taaki baaki cheezon ke upar dikhe */
     border-radius: 4px;
     top: 100%;
-    /* Button ke thik niche se shuru ho */
     left: 0;
 }
 .dropdown:hover .dropdown-menu {
     display: block;
-}
+} */
