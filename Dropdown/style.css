@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -16,9 +16,8 @@
     border: none;
     cursor: pointer;
     border-radius: 5px;
-} */
-
-/* .dropdown-menu {
+} 
+.dropdown-menu {
     display: none;
     position: absolute;
     list-style: none;
@@ -33,4 +32,4 @@
 }
 .dropdown:hover .dropdown-menu {
     display: block;
-} */
+}
